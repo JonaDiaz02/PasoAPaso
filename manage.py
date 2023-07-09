@@ -5,6 +5,7 @@ import sys
 
 
 def main():
+    """Este es un nuveo mensaje"""
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'test_admin.settings')
     try:
